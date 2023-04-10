@@ -1,4 +1,4 @@
-# arquivos_seal
+# arquivos seal solution
 Arquivos do projeto pomodoro criado pela empresa seal solution , sprint, primeiro semestre sptech
 
 
